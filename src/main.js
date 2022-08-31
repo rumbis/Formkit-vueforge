@@ -17,7 +17,7 @@ createApp(App)
   .use(
     plugin,
     defaultConfig({
-      theme: "genesis"
+      theme: "genesis",
     })
   )
   .mount("#app");
