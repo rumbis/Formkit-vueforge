@@ -26,7 +26,7 @@
     },
     "format": {
       "name": "format",
-      "command": "npm run prettier",
+      "command": "yarn prettier",
       "runAtStart": false
     }
   }
